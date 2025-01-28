@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/2bcbc79f-daec-47f8-a781-99eb9c82d97f
+
 # Simple Doc Renderer
 
 Terminal renderer made for the Simple Doc markup language. Crafted entirely in Nim!
