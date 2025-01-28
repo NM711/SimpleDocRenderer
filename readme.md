@@ -11,6 +11,6 @@ In your `.bashrc` file or equivalent, append the following line at the end `expo
 
 1. `git clone https://github.com/NM711/SimpleDocRenderer.git`
 2. `cd SimpleDocRenderer`
-3. `nim c ./src/main.nim sdrenderer`
+3. `nim c -o:./sdrenderer ./src/main.nim`
 4. `mv sdrenderer ~/.local/bin/`
 5. `sdrenderer ./path/to/simpledoc/file`
