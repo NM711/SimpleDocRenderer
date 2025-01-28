@@ -1,6 +1,6 @@
 # Simple Doc Renderer
 
-Terminal renderer made for the simple doc markup language. Crafted entirely in nim
+Terminal renderer made for the Simple Doc markup language. Crafted entirely in Nim!
 
 ## How to build and run?
 
